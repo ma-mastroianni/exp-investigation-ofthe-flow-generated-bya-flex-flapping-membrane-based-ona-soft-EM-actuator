@@ -10,4 +10,4 @@ These scripts accomplish various tasks, from the data visualization of fluid flo
 This repository is protected under the GNU GPL v3 license [^2].
 
 [^1]: 2D-PIV = 2-Dimensional Particle Image Velocimetry
-[^2]: See [License](LICENSE).
+[^2]: See [License](/LICENSE).
