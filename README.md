@@ -5,5 +5,5 @@ This repository is protected under the GNU GPL v3 license [^1].<br/><br/>
 A collection of independent MATLAB scripts as part of a significant contribution to the 2D-PIV [^2] investigation of the flapping of a smart material-based actuator in an open channel flow.<br/>
 These scripts accomplish various tasks, from the data visualization of fluid flow to membrane motion measurements extracted from external software. Written in MATLAB v2021a.
 
-[^1]: See [GPL-3.0 License] (LICENSE.md).
+[^1]: See [License](LICENSE.md).
 [^2]: 2D-PIV = 2-Dimensional Particle Image Velocimetry
